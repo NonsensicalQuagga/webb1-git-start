@@ -1,5 +1,11 @@
 body {
-    color: rgb(255, 0, 0);
-    background-color: #47cf6d;
-    font-family: 'Stick', sans-serif;
+    max-width: 65ch;
+    margin: auto;
+    font-family:sans-serif;
+    background-color: rgb(35, 252, 27);
+}
+header {
+    text-align: center;
+    font-family: serif;
+    background-color: rgb(158, 55, 255);
 }
