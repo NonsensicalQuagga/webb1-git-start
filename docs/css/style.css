@@ -8,4 +8,9 @@ header {
     text-align: center;
     font-family: serif;
     background-color: rgb(158, 55, 255);
+}   
+
+p {
+    background-color: aqua;
+    font-family: monospace;
 }
